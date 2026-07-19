@@ -84,9 +84,7 @@ var v = gany( [ x ] );
 
 The function has the following parameters:
 
--   **arrays**: array-like object containing the following ndarrays:
-
-    -   a one-dimensional input ndarray.
+-   **arrays**: array-like object containing a one-dimensional input ndarray.
 
 </section>
 
